@@ -14,6 +14,11 @@ public void postJira(){
         System.out.println("postJira6");
         System.out.println("postJira7");
         System.out.println("postJira8");
+        // dfdlf
+        //fsdkfe
+        //fdfewkjf
+        System.out.println("postJira9");
+        System.out.println("postJira10");
 }
     @Test
     public void deleteTwitter(){
